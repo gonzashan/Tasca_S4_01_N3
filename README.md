@@ -33,7 +33,7 @@ Que has d’entregar? (4 arxius):
  - Una captura de pantalla per cada entorn, on es vegi l’execució des de Postman usant l’entorn i les variables definides en ells.
 
 - Pots provar l'URL: , o qualsevol altra de les que admeten els dos projectes. (recorda que perquè l’execució funcioni correctament, hauràs de tenir en execució els dos projectes a Eclipse).
--       'http://localhost:xxxx/HelloWorld/elmeunom'
+    -     'http://localhost:xxxx/HelloWorld/elmeunom'
 
 - Executa des d’Eclipse els projectes creats als dos nivells anteriors, i mostra el retorn obtingut en cada projecte, quan crides a algunes de les peticions disponibles, fent servir els entorns creats i les seves variables.
 
