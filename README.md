@@ -39,3 +39,5 @@ Que has d’entregar? (4 arxius):
 
 Hauràs d’entregar dues captures de pantalla, una per l’execució de cada entorn, i dos arxius amb format JSON, amb els entorns exportats.
 
+[![N|Solid](https://github.com/gonzashan/Tasca_S4_01_N3/blob/main/Maven.png)](https://nodesource.com/products/nsolid)
+
